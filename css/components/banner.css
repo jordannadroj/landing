@@ -1,0 +1,37 @@
+
+
+.banner-sloth {
+  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(https://images.unsplash.com/photo-1509243271451-2b84555736ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1489&q=80);
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+  color: linear-gradient rgba(0,0,0,1), rgba(0,0,0,0.3);
+
+  /*height: 550px;*/
+}
+
+.banner-info {
+  margin: 0 auto;
+  width: 900px;
+  color: white;
+ }
+
+ .banner-info h1 {
+  color: #95d5b2;
+ }
+
+.banner-info p {
+  font-size: 24px;
+  color: white;
+}
+
+.banner-info a {
+  padding: 8px 24px;
+  color: #52b788;
+  border: solid 1px white;
+  border-radius: 20px;
+}
+
+.banner-info a:hover {
+  background-color: white;
+}
